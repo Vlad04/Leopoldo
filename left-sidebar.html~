@@ -7,7 +7,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>NUTIVO &mdash; Nutricion con motivo</title>
+	<title>Leopoldo</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
 	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
@@ -84,9 +84,9 @@
 				<div id="fh5co-navbar" class="navbar-collapse collapse" style="align:down">
 					<ul class="nav navbar-nav navbar-right">
 						<li class="active"><a href="index.html"><span>Inicio <span class="border"></span></span></a></li>
-						<li><a href="right-sidebar.html"><span>¿Quiénes somos? <span class="border"></span></span></a></li>
-						<li><a href="left-sidebar.html"><span>Vive saludable <span class="border"></span></span></a></li>
-						<li><a href="elements.html"><span>Activación física <span class="border"></span></span></a></li>
+						<li><a href="right-sidebar.html"><span>¿Quienes somos? <span class="border"></span></span></a></li>
+						<li><a href="left-sidebar.html"><span>Contacto <span class="border"></span></span></a></li>
+						<li><a href="elements.html"><span> <span class="border"></span></span></a></li>
 					</ul>
 				</div>
 			</div>
@@ -96,7 +96,86 @@
 
 
 
+    <li class="dropdown yamm-fw">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="200">Template <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <div class="yamm-content">
+                                    <div class="row">
+                                        <div class="col-sm-3">
+                                            <h5>Shop</h5>
+                                            <ul>
+                                                <li><a href="index.html">Homepage</a>
+                                                </li>
+                                                <li><a href="category.html">Category - sidebar left</a>
+                                                </li>
+                                                <li><a href="category-right.html">Category - sidebar right</a>
+                                                </li>
+                                                <li><a href="category-full.html">Category - full width</a>
+                                                </li>
+                                                <li><a href="detail.html">Product detail</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-3">
+                                            <h5>User</h5>
+                                            <ul>
+                                                <li><a href="register.html">Register / login</a>
+                                                </li>
+                                                <li><a href="customer-orders.html">Orders history</a>
+                                                </li>
+                                                <li><a href="customer-order.html">Order history detail</a>
+                                                </li>
+                                                <li><a href="customer-wishlist.html">Wishlist</a>
+                                                </li>
+                                                <li><a href="customer-account.html">Customer account / change password</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-3">
+                                            <h5>Order process</h5>
+                                            <ul>
+                                                <li><a href="basket.html">Shopping cart</a>
+                                                </li>
+                                                <li><a href="checkout1.html">Checkout - step 1</a>
+                                                </li>
+                                                <li><a href="checkout2.html">Checkout - step 2</a>
+                                                </li>
+                                                <li><a href="checkout3.html">Checkout - step 3</a>
+                                                </li>
+                                                <li><a href="checkout4.html">Checkout - step 4</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-3">
+                                            <h5>Pages and blog</h5>
+                                            <ul>
+                                                <li><a href="blog.html">Blog listing</a>
+                                                </li>
+                                                <li><a href="post.html">Blog Post</a>
+                                                </li>
+                                                <li><a href="faq.html">FAQ</a>
+                                                </li>
+                                                <li><a href="text.html">Text page</a>
+                                                </li>
+                                                <li><a href="text-right.html">Text page - right sidebar</a>
+                                                </li>
+                                                <li><a href="404.html">404 page</a>
+                                                </li>
+                                                <li><a href="contact.html">Contact</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- /.yamm-content -->
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
 
+            </div>
+            <!--/.nav-collapse -->
 	<!-- jQuery -->
 	<script src="js/jquery.min.js"></script>
 	<!-- jQuery Easing -->
